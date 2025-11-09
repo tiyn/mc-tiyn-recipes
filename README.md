@@ -1,4 +1,4 @@
-# Tiyns Recipes
+# MC Tiyn Recipes
 
 Tiyns Recipes is a Minecraft datapack that adds some minor recipes for quality of life reasons.
 Namely the following recipes are added.
@@ -14,7 +14,7 @@ To install the datapack it first needs to be zipped.
 This can happen with the following command.
 
 ```sh
-zip -r bin/tiyns_recipes-mc1.21.6-1.21.7-1.21.8-v1.1.0.zip data pack.mcmeta pack.png
+zip -r bin/mc-tiyn-recipes-mc1.21.6-1.21.7-1.21.8-v1.1.0.zip data pack.mcmeta pack.png
 ```
 
 The file can then be found inside the `bin` directory.
